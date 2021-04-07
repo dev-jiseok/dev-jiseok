@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=LEEJISEOK&fontSize=90&fontColor=black)
 
+<p align="right">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev-jiseok&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
+         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</p>
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">techs that i've used at least once</p>
