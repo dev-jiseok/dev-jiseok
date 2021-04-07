@@ -10,6 +10,6 @@
 
 <h3 align="center"> Me 💻 </h3>
 
-<p align="center"><a href="https://dev-jiseok.github.io"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://dev-jiseok.github.io"/></a>&nbsp <a href="leejiseok426@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejiseok426@gmail.com"/></a>&nbsp  </p>
+<p align="center"><a href="https://dev-jiseok.github.io"><img src="https://img.shields.io/badge/GitHub_Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://dev-jiseok.github.io"/></a>&nbsp <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejiseok426@gmail.com"/></a>&nbsp  </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jiseok&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
