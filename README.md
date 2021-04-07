@@ -14,6 +14,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jiseok&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=dev-jiseok&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=footer)
 
