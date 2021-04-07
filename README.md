@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEEJISEOK&fontSize=90&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=LEEJISEOK&fontSize=90&fontColor=black)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
