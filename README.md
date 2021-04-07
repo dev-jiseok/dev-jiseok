@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=LEEJISEOK&fontSize=90&fontColor=black)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEEJISEOK&fontSize=90&fontColor=black)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -15,5 +15,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jiseok&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer)
 
