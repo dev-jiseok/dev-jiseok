@@ -15,5 +15,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jiseok&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=footer)
 
