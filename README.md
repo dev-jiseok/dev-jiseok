@@ -22,7 +22,7 @@
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 <div align="center">
-    <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dasoo426">
+    <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dasoo426">
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=footer)
